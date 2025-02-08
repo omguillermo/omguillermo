@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on mobile and desktop app development. Global teams.
 - 📫 How to reach me:
   LinkedIn https://www.linkedin.com/in/omar-guillermo/
-  Behance https://www.behance.net/OmarLejander (I need to update that URL soon 😄)
+  Behance https://www.behance.net/OmarGuillermo (I need to update that URL soon 😄)
 
 <!---
 omguillermo/omguillermo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
